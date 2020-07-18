@@ -1,3 +1,5 @@
+echo ###Addition program###
+echo ""
 read -p "Enter first number: " n1
 read -p "Enter second number: " n2
  
